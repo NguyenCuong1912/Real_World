@@ -1,0 +1,9 @@
+.tag_span {
+    width: fit-content;
+    border: 1px solid;
+    padding: 2px 5px;
+    border-radius: 10rem;
+    background-color: rgb(129,138,145);
+    color: white;
+    font-size: 14px;
+}    
